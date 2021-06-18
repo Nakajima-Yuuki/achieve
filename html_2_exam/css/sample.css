@@ -112,6 +112,7 @@ header ul:after {
 .function {
   background-color: #D3D3D3;
   padding-bottom: 200px;
+
 }
 
 .function h1 {
@@ -122,6 +123,8 @@ header ul:after {
 .function-images {
   width: 60%;
   margin: 0 auto;
+  height: 100px
+
 }
 
 .function-image {
